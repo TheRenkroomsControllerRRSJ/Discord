@@ -46,4 +46,5 @@ async def check(ctx):
     else:
         await ctx.send("You forgot to upload the image :(")
 
-bot.run("MTM2NzkyNDU1NTg3NTg3NjkyNQ.GPkrw_.sqiuiFmG0ZaJWor-z5kzbxph0IMuTvtZsSdwNs")
+
+bot.run("TOKEN BURAYA GELECEK")
